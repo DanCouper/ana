@@ -10,6 +10,7 @@ A collection of useful miscellania.
 - [JavaScript](#javascript)
 - [Elixir](#elixir)
 - [Haskell](#haskell)
+    + [Haskell General Reference Articles](#haskell-general-reference-articles)
 
 
 ## Elixir
@@ -27,10 +28,12 @@ A collection of useful miscellania.
 
 ## Haskell
 
+### Haskell General Reference Articles
 **[What I wish I knew When Learning Haskell](http://dev.stephendiehl.com/hask).** Useful, in-depth set of notes - on GitHub at https://github.com/sdiehl/wiwinwlh/.
 
 **[http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/](Learn Haskell Fast and Hard).** Short, dense tutorial on Haskell basics.
 
 **[http://www.willamette.edu/~fruehr/haskell/evolution.html](The Evolution of a Haskell Programmer).**
 > I suppose this is what you’d have to call “small-audience” humour.
+
 ## JavaScript
