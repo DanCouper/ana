@@ -16,19 +16,21 @@ A collection of useful miscellania.
 
 ***
 
-## Elixir ([top](#contents))
+## Elixir
 
+*([&#8593; TOP](#contents))*
 ***
 
-## Game Programming ([top](#contents))
+## Game Programming
 
 ### Blogs - Game Programming
 
 [**Red Blob Games**](http://www.redblobgames.com/) Phenomenal source of useful information - introductions to pathfinding, A*, tiling methods and algorithms, etc. Well written, in-depth, excellent diagrams. Highly applicable outside of game programming/design. Articles are consistently reposted on HN for a reason.
 
+*([&#8593; TOP](#contents))*
 ***
 
-## General CS/Programming ([top](#contents))
+## General CS/Programming
 
 ### Videos
 
@@ -41,9 +43,10 @@ A collection of useful miscellania.
 [**Worlds**](papers/tr2011001_final_worlds.pdf). Interesting paper which (to quote) "introduces worlds, a language construct that reifies the notion of program state and enables programmers to control the scope of side effects."
   Warth, A., Ohshima, Y., Kaehler, T., Kay, A. (2011) [*Worlds: Controlling the Scope of Side Effects*](papers/tr2011001_final_worlds.pdf) VPRI Technical Report TR-2011-001. Glendale, California: Viewpoints Research Institute.
 
+*([&#8593; TOP](#contents))*
 ***
 
-## Haskell ([top](#contents))
+## Haskell
 
 ### Articles/Tutorials - Haskell
 [**What I wish I knew When Learning Haskell**](http://dev.stephendiehl.com/hask). Useful, in-depth set of notes - on GitHub at https://github.com/sdiehl/wiwinwlh/.
@@ -53,9 +56,10 @@ A collection of useful miscellania.
 [**http://www.willamette.edu/~fruehr/haskell/evolution.html**](The Evolution of a Haskell Programmer).
 > I suppose this is what you’d have to call “small-audience” humour.
 
+*([&#8593; TOP](#contents))*
 ***
 
-## JavaScript ([top](#contents))
+## JavaScript
 
 ### Articles/Tutorials - JS
 
@@ -79,13 +83,15 @@ A collection of useful miscellania.
 
 [**test-check**](https://github.com/leebyron/testcheck-js) - JS implementation of QuickCheck, allowing generative testing.
 
+*([&#8593; TOP](#contents))*
 ***
 
-## Typography/Fontwerk ([top](#contents))
+## Typography/Fontwerk
 
+*([&#8593; TOP](#contents))*
 ***
 
-## UI ([top](#contents))
+## UI
 
 ### Articles/Tutorials - UI
 
