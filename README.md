@@ -75,11 +75,19 @@ A collection of useful miscellania.
 
 [**Higher-order Javascript**](http://interglacial.com/hoj/hoj.html). Companion piece to *Higher-order Perl*
 
+### Books - JS
+
+[**JavaScript Allongé**](https://leanpub.com/javascript-allonge/read) is the boy. Reg Braithwaite is pretty good at explaining.
+
+[**PureScript by Example**](https://leanpub.com/purescript/read). Oh look, it's Haskell, but only not, it's JavaScript. Note compilation is a [very] slight pain point, otherwise language is v good. See also [LiveScript](http://livescript.net/), which maps straight to JS instead of running through a Haskell-based compiler (it is a child of CoffeeScript).
+
 ### Blogs - JS
 
 [**Better World by Better Software**](http://bahmutov.calepin.co/) - Gleb Bahmutov's blog - fairly functional JavaScript advice.
 
 [**Perfection Kills](http://perfectionkills.com) - Juriy "kangax" Zaytsev's JS blog. Very well written articles - (this one in particular)[http://perfectionkills.com/exploring-canvas-drawing-techniques/], on canvas drawing techniques. Also see his ES6 Compatibility table at http://kangax.github.io/compat-table/es6/.
+
+[**raganwald.com**](http://raganwald.com/), Reginald Braithwaite's archive of technical (mainly JS, some Ruby) articles.
 
 ### Repos - JS
 
