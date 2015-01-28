@@ -19,7 +19,7 @@ A collection of useful miscellania.
 ## Elixir
 
 ***
-*[GOTO TOP](#contents)*
+[*top*](#)
 ***
 
 ## Game Programming
@@ -29,7 +29,7 @@ A collection of useful miscellania.
 [**Red Blob Games**](http://www.redblobgames.com/) Phenomenal source of useful information - introductions to pathfinding, A*, tiling methods and algorithms, etc. Well written, in-depth, excellent diagrams. Highly applicable outside of game programming/design. Articles are consistently reposted on HN for a reason.
 
 ***
-*[GOTO TOP](#contents)*
+[*top*](#)
 ***
 
 ## General CS/Programming
@@ -46,7 +46,7 @@ A collection of useful miscellania.
   Warth, A., Ohshima, Y., Kaehler, T., Kay, A. (2011) [*Worlds: Controlling the Scope of Side Effects*](papers/tr2011001_final_worlds.pdf) VPRI Technical Report TR-2011-001. Glendale, California: Viewpoints Research Institute.
 
 ***
-*[GOTO TOP](#contents)*
+[*top*](#)
 ***
 
 ## Haskell
@@ -60,7 +60,7 @@ A collection of useful miscellania.
 > I suppose this is what you’d have to call “small-audience” humour.
 
 ***
-*[GOTO TOP](#contents)*
+[*top*](#)
 ***
 
 ## JavaScript
@@ -88,13 +88,13 @@ A collection of useful miscellania.
 [**test-check**](https://github.com/leebyron/testcheck-js) - JS implementation of QuickCheck, allowing generative testing.
 
 ***
-*[GOTO TOP](#contents)*
+[*top*](#)
 ***
 
 ## Typography/Fontwerk
 
 ***
-*[GOTO TOP](#contents)*
+[*top*](#)
 ***
 
 ## UI
