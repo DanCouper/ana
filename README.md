@@ -18,7 +18,8 @@ A collection of useful miscellania.
 
 ## Elixir
 
-*([&#8593; TOP](#contents))*
+***
+*[GOTO TOP](#contents)*
 ***
 
 ## Game Programming
@@ -27,7 +28,8 @@ A collection of useful miscellania.
 
 [**Red Blob Games**](http://www.redblobgames.com/) Phenomenal source of useful information - introductions to pathfinding, A*, tiling methods and algorithms, etc. Well written, in-depth, excellent diagrams. Highly applicable outside of game programming/design. Articles are consistently reposted on HN for a reason.
 
-*([&#8593; TOP](#contents))*
+***
+*[GOTO TOP](#contents)*
 ***
 
 ## General CS/Programming
@@ -43,7 +45,8 @@ A collection of useful miscellania.
 [**Worlds**](papers/tr2011001_final_worlds.pdf). Interesting paper which (to quote) "introduces worlds, a language construct that reifies the notion of program state and enables programmers to control the scope of side effects."
   Warth, A., Ohshima, Y., Kaehler, T., Kay, A. (2011) [*Worlds: Controlling the Scope of Side Effects*](papers/tr2011001_final_worlds.pdf) VPRI Technical Report TR-2011-001. Glendale, California: Viewpoints Research Institute.
 
-*([&#8593; TOP](#contents))*
+***
+*[GOTO TOP](#contents)*
 ***
 
 ## Haskell
@@ -56,7 +59,8 @@ A collection of useful miscellania.
 [**http://www.willamette.edu/~fruehr/haskell/evolution.html**](The Evolution of a Haskell Programmer).
 > I suppose this is what you’d have to call “small-audience” humour.
 
-*([&#8593; TOP](#contents))*
+***
+*[GOTO TOP](#contents)*
 ***
 
 ## JavaScript
@@ -83,12 +87,14 @@ A collection of useful miscellania.
 
 [**test-check**](https://github.com/leebyron/testcheck-js) - JS implementation of QuickCheck, allowing generative testing.
 
-*([&#8593; TOP](#contents))*
+***
+*[GOTO TOP](#contents)*
 ***
 
 ## Typography/Fontwerk
 
-*([&#8593; TOP](#contents))*
+***
+*[GOTO TOP](#contents)*
 ***
 
 ## UI
