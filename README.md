@@ -3,6 +3,8 @@ A collection of useful miscellania.
 
 *Fancy ordering and maybe a shiny front end can be implemented once substantial content has been added, and building an enormous list becomes tiresome.*
 
+## Contents
+
 - [Design](#design)
 - [Elixir](#elixir)
 - [Game Programming](#game-programming)
@@ -12,12 +14,13 @@ A collection of useful miscellania.
 - [Typography/Fontwerk](#typographyfontwerk)
 - [UI](#ui)
 
+***
 
-## Elixir
+## Elixir ([top](#contents))
 
 ***
 
-## Game Programming
+## Game Programming ([top](#contents))
 
 ### Blogs - Game Programming
 
@@ -25,7 +28,7 @@ A collection of useful miscellania.
 
 ***
 
-## General CS/Programming
+## General CS/Programming ([top](#contents))
 
 ### Videos
 
@@ -40,7 +43,7 @@ A collection of useful miscellania.
 
 ***
 
-## Haskell
+## Haskell ([top](#contents))
 
 ### Articles/Tutorials - Haskell
 [**What I wish I knew When Learning Haskell**](http://dev.stephendiehl.com/hask). Useful, in-depth set of notes - on GitHub at https://github.com/sdiehl/wiwinwlh/.
@@ -52,7 +55,7 @@ A collection of useful miscellania.
 
 ***
 
-## JavaScript
+## JavaScript ([top](#contents))
 
 ### Articles/Tutorials - JS
 
@@ -78,11 +81,11 @@ A collection of useful miscellania.
 
 ***
 
-## Typography/Fontwerk
+## Typography/Fontwerk ([top](#contents))
 
 ***
 
-## UI
+## UI ([top](#contents))
 
 ### Articles/Tutorials - UI
 
