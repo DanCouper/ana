@@ -42,6 +42,7 @@ A collection of useful miscellania.
 
 [**Push-Pull FRP**](papers/push-pull-frp.pdf).
   Elliott, C. (2011) [*Push-Pull Functional Reactive Programming*](papers/push-pull-frp.pdf) Haskell '09. Edinburgh, Scotland.
+
 [**Worlds**](papers/tr2011001_final_worlds.pdf). Interesting paper which (to quote) "introduces worlds, a language construct that reifies the notion of program state and enables programmers to control the scope of side effects."
   Warth, A., Ohshima, Y., Kaehler, T., Kay, A. (2011) [*Worlds: Controlling the Scope of Side Effects*](papers/tr2011001_final_worlds.pdf) VPRI Technical Report TR-2011-001. Glendale, California: Viewpoints Research Institute.
 
