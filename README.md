@@ -51,9 +51,9 @@ A collection of useful miscellania.
 
 ### Blogs - JS
 
-**(Better World by Better Software)[http://bahmutov.calepin.co/]** - Gleb Bahmutov's blog - fairly functional JavaScript advice.
+**[Better World by Better Software](http://bahmutov.calepin.co/)** - Gleb Bahmutov's blog - fairly functional JavaScript advice.
 
-**(Perfection Kills)[http://perfectionkills.com]** - Juriy "kangax" Zaytsev's JS blog. Very well written articles - (this one in particular)[http://perfectionkills.com/exploring-canvas-drawing-techniques/], on canvas drawing techniques. Also see his ES6 Compatibility table at http://kangax.github.io/compat-table/es6/.
+**[Perfection Kills](http://perfectionkills.com)** - Juriy "kangax" Zaytsev's JS blog. Very well written articles - (this one in particular)[http://perfectionkills.com/exploring-canvas-drawing-techniques/], on canvas drawing techniques. Also see his ES6 Compatibility table at http://kangax.github.io/compat-table/es6/.
 
 ### Libraries/Frameworks - JS
 
