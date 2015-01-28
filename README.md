@@ -18,6 +18,11 @@ A collection of useful miscellania.
 
 ## Elixir
 
+### Books - Elixir
+
+[**Études for Elixir**](http://chimera.labs.oreilly.com/books/1234000001642/index.html). Companion to the book *Introducing Elixir*, with descriptions of small programs to use as practise material.
+
+
 ***
 [*top*](#)
 ***
@@ -70,6 +75,25 @@ A collection of useful miscellania.
 
 [**A Monad in Practicality**](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html). Using monads in JS to deal with failures. By Quildreen Motta - see also her [**Folktale**](https://github.com/folktale) library.
 
+[Comment](https://news.ycombinator.com/item?id=8715373) from HN user *xiaoma* on the use of `this` in JS. Kangax expanded upon this in a [blog post at prefectionkills](http://perfectionkills.com/know-thy-reference/).
+> Even more simply, I'd just say:
+> 
+> 1) The keyword "this" refers to whatever is left of the dot at call-time.
+> 
+> 2) If there's nothing to the left of the dot, then "this" is the root scope (e.> g. Window).
+> 
+> 3) A few functions change the behavior of "this"—bind, call and apply
+> 
+> 4) The keyword "new" binds this to the object just created
+> 
+> So if you're using the value of "this" in someFunction...
+> 
+>   thing.someFunction(); // this === thing
+>   someFunction();       // this === Window
+>   new someFunction();   // this === the newly created object
+> 
+> It's as simple as that. It's a very useful keyword.
+
 [**Searching JavaScript arrays with a binary search**](http://oli.me.uk/2013/06/08/searching-javascript-arrays-with-a-binary-search/), and the [**follow up article**](http://oli.me.uk/2014/12/17/revisiting-searching-javascript-arrays-with-a-binary-search/) (with linked NPM package). Binary search is quick for large arrays, though the arrays must be sorted.
 
 [**Event Driven & FRP Step-by-Step**](http://open.bekk.no/event-driven-and-functional-reactive-programming-step-by-step). Good, well written tutorial, and rest of the articles on the site are a useful resource.
@@ -78,9 +102,15 @@ A collection of useful miscellania.
 
 ### Books - JS
 
+[**Book of Modern Front-end Tooling**](https://github.com/tooling/book-of-modern-frontend-tooling). Addy Osmani *et al*, covering NPM, Gulp, Grunt, Brunch, ComponentJS, Browserify, WebPack, Yeoman and Loom.
+
+[**Human JavaScript**](http://read.humanjavascript.com/). Henrik Joreteg's guide to building simple browser apps, eschews heavy frameworks as much as possible. Nicely presented.
+
 [**JavaScript Allongé**](https://leanpub.com/javascript-allonge/read) is the boy. Reg Braithwaite is pretty good at explaining.
 
 [**PureScript by Example**](https://leanpub.com/purescript/read). Oh look, it's Haskell, but only not, it's JavaScript. Note compilation is a [very] slight pain point, otherwise language is v good. See also [LiveScript](http://livescript.net/), which maps straight to JS instead of running through a Haskell-based compiler (it is a child of CoffeeScript).
+
+[**You Don't Know JS**](https://github.com/getify/You-Dont-Know-JS). The repo for Kyle Simpson's book series. Very, very good explanations - the async stuff on promises in particular is illuminating. Clear, good examples, highly detailed, engaging.
 
 ### Blogs - JS
 
@@ -147,3 +177,7 @@ A collection of useful miscellania.
 > We reworked the workflow and got it down to 3 steps and user-engagement jumped triple digits.
 > 
 > 6) After you've addressed 1-6, make it look nice.
+
+***
+[*top*](#)
+***
