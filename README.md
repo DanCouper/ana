@@ -11,16 +11,20 @@ A collection of useful miscellania.
 - [General CS/Programming](#general-csprogramming)
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
+- [Psychology](#psychology)
 - [Typography/Fontwerk](#typographyfontwerk)
 - [UI](#ui)
+- [Writing](#writing)
 
 ***
 
 ## Elixir
 
-### Books - Elixir
+### Books - Elixir/Erlang
 
 [**Études for Elixir**](http://chimera.labs.oreilly.com/books/1234000001642/index.html). Companion to the book *Introducing Elixir*, with descriptions of small programs to use as practise material.
+
+[**SICP**](http://lfe.gitbooks.io/sicp/content/). SICP in Robert Virdig's [Lisp Flavoured Erlang](http://lfe.io/). In addition to its many other merits, the site (and the LFE site itself) is beautifully presented.
 
 
 ***
@@ -39,7 +43,11 @@ A collection of useful miscellania.
 
 ## General CS/Programming
 
-### Videos
+### Articles/Tutorials - General CS/Programming
+
+[**Regular Expression Matching with a Trigram Index or How Google Code Search Worked**](http://swtch.com/~rsc/regexp/regexp4.html) by Russ Cox. Used as a reference to write the Etsy's search tool/app [Hound](https://codeascraft.com/2015/01/27/announcing-hound-a-lightning-fast-code-search-tool/).
+
+### Videos - General CS/Programming
 
 [**Category Theory**](http://youtu.be/o6L6XeNdd_k) by Mathematician Tom LaGatta, Filmed at the March 11, 2014 LispNYC meetup at Meetup HQ in NYC. Clear, detailed overview.
 
@@ -96,7 +104,7 @@ A collection of useful miscellania.
 
 [**Searching JavaScript arrays with a binary search**](http://oli.me.uk/2013/06/08/searching-javascript-arrays-with-a-binary-search/), and the [**follow up article**](http://oli.me.uk/2014/12/17/revisiting-searching-javascript-arrays-with-a-binary-search/) (with linked NPM package). Binary search is quick for large arrays, though the arrays must be sorted.
 
-[**Event Driven & FRP Step-by-Step**](http://open.bekk.no/event-driven-and-functional-reactive-programming-step-by-step). Good, well written tutorial, and rest of the articles on the site are a useful resource.
+[**Event Driven & Functional Reactive Programming Step-by-Step**](http://open.bekk.no/event-driven-and-functional-reactive-programming-step-by-step). Good, well written tutorial, and rest of the articles on the site are a useful resource.
 
 [**Higher-order Javascript**](http://interglacial.com/hoj/hoj.html). Companion piece to *Higher-order Perl*
 
@@ -122,9 +130,22 @@ A collection of useful miscellania.
 
 ### Repos - JS
 
-[**Bacon.js**](https://github.com/baconjs/bacon.js) - good FRP library. Built to deal with perceived shortcomings of the [MS Cloud Programmibility Group's](https://github.com/Reactive-Extensions) RXJS library.
+[**Bacon.js**](https://github.com/baconjs/bacon.js) - good FRP library. Built to deal with perceived shortcomings of the [MS Cloud Programmibility Group's](https://github.com/Reactive-Extensions) RXJS library. A spin-off built to improve on performance is [Keffiyah]().
+
+[**React**](http://facebook.github.io/react/), [**Immutable**](http://facebook.github.io/immutable-js/), and [**Flow**](http://flowtype.org/). Respectively, Facebooks's view layer, immutable data library, and static type checker.
+
+[**lodash**](https://lodash.com). Despite the 'orrible looking documentation, possibly still the best. Now has fully curried version ([lodash-fp](https://www.npmjs.com/package/lodash-fp)), which is a rather nice thing to have access to.
 
 [**test-check**](https://github.com/leebyron/testcheck-js) - JS implementation of QuickCheck, allowing generative testing.
+
+***
+[*top*](#)
+***
+
+## Psychology
+
+### Articles - Psychology
+[**The Psychology of Pricing: A Gigantic List of Strategies**](http://www.nickkolenda.com/psychological-pricing-strategies/). Does exactly what it says on the tin. Very useful, and seems very comprehensive.
 
 ***
 [*top*](#)
@@ -139,6 +160,8 @@ A collection of useful miscellania.
 ## UI
 
 ### Articles/Tutorials - UI
+
+[**The differences Between print design and web design**](http://www.nngroup.com/articles/differences-between-print-design-and-web-design/). Important to keep at the back of one's mind. It is too, too easy to fall into the trap of carefully laying out elements for a web design, applying beautiful typography to a static mockup in PS/Illustrator/InDesign, and to then have to compromise on every design decision due to the fact the web is not a picture to be printed out.
 
 [**First Principles of Interaction Design**](http://asktog.com/atc/principles-of-interaction-design/). Bruce Tognazzi's in-depth rundown of useful ID principles to adhere to.
 
@@ -177,6 +200,33 @@ A collection of useful miscellania.
 > We reworked the workflow and got it down to 3 steps and user-engagement jumped triple digits.
 > 
 > 6) After you've addressed 1-6, make it look nice.
+
+***
+[*top*](#)
+***
+
+## Writing
+
+### Articles/Tutorials - Writing
+
+[**Search Engine Optimisation in BBC News**](http://bbc.in/1HcAYA7). Headline writing and SEO at the BBC. Key points, alongside the 55-character limit
+(the length of a Google search result):
+
+1. Use words that people would use in search in order to find the
+   information being provided.
+2. Avoid words that people would never use in search to find that content.
+3. Put the most searchable elements at the front.
+4. Proper names are often used in search, so - following rules 1 and 3 -
+   names should be included in the headline and if appropriate at the front.
+
+### Apps - Writing
+
+[**Hemingway**](http://www.hemingwayapp.com/). Very useful, but do use with caution; it is an extremely blunt tool. The app assesses writing, siming to make it "bold and clear".
+
+> Hemingway highlights long, complex sentences and common errors; if you see a yellow highlight, shorten the sentence or split it. If you see a red highlight, your sentence is so dense and complicated that your readers will get lost trying to follow its meandering, splitting logic — try editing this sentence to remove the red.
+Adverbs are helpfully shown in blue. Get rid of them and pick verbs with force instead.
+You can utilize a shorter word in place of a purple one. Mouse over it for hints.
+Phrases in green have been marked to show passive voice.
 
 ***
 [*top*](#)
