@@ -130,7 +130,7 @@ A collection of useful miscellania.
 
 ### Repos - JS
 
-[**Bacon.js**](https://github.com/baconjs/bacon.js) - good FRP library. Built to deal with perceived shortcomings of the [MS Cloud Programmibility Group's](https://github.com/Reactive-Extensions) RXJS library. A spin-off built to improve on performance is [Keffiyah]().
+[**Bacon.js**](https://github.com/baconjs/bacon.js) - good FRP library. Built to deal with perceived shortcomings of the [MS Cloud Programmibility Group's](https://github.com/Reactive-Extensions) RXJS library. A spin-off built to improve on performance is [Kefir](https://rpominov.github.io/kefir/).
 
 [**React**](http://facebook.github.io/react/), [**Immutable**](http://facebook.github.io/immutable-js/), and [**Flow**](http://flowtype.org/). Respectively, Facebooks's view layer, immutable data library, and static type checker.
 
